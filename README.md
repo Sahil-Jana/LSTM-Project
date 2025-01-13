@@ -17,13 +17,9 @@ This project uses an LSTM neural network to forecast future values in a time ser
 
 Run the script or notebook to execute the steps above.
 
----
-
 ## Results
-- The model achieved an **R² score of 0.9856**, indicating high accuracy in predictions.
+- The model achieved an **R² score of 0.9933** in above example, indicating high accuracy in predictions.
 - Visualizations clearly show how well the model tracks actual values and forecasts future trends.
-
----
 
 ## Visualizations
 1. **Actual vs Predicted Values**: Comparison of the true values and the model's predictions during the training period.
